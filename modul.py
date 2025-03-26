@@ -1,0 +1,3 @@
+variable = 17
+def funcion():
+    ...
